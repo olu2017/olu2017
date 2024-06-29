@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **olu2017/olu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello and Welcome 👋, I'm Olu.
+- I'm currently jumping back into programming with Python being the initial focus.
+- Also enhancing my knowledge on AI in parallel.
