@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - Also enhancing my knowledge on AI in parallel.
 
 **Useful Links & Resources**
-- Replit https://replit.com/pricing 
+- Replit https://replit.com/pricing
+
+**Reminders / Pointers**
+- Programmers always start from zero
+- Strings, Integer, Large Integers, Float (Floating Point Numbers), Boolean
