@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 # Hello and Welcome 👋, I'm Olu.
 - I'm currently jumping back into programming with Python being the initial focus.
 - Also enhancing my knowledge on AI in parallel.
+
+**Useful Links & Resources**
+- Replit https://replit.com/pricing 
