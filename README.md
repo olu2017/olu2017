@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 **Reminders / Pointers**
 - Programmers always start from zero
 - Strings, Integer, Large Integers, Float (Floating Point Numbers), Boolean
+-Comments can also be reflected in several ways
 
 Keyboard Shortcuts
 - Comment out the line: CMD + /
