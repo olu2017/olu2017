@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello and Welcome 👋, I'm Olu.
-- I'm currently jumping back into programming with Python being the initial focus.
+- I'm currently jumping back into programming with Javascript and Python.
 - Also enhancing my knowledge on AI in parallel.
 
 **Useful Links & Resources**
